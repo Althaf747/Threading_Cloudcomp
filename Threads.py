@@ -1,23 +1,3 @@
-from threading import Thread
-
-# a = 1 
-# b = 2
-# c = 3
-
-# def task1(a,b):
-#     print(a+b)
-
-# def task2(a,b,c):
-#     print (a + b + c) 
-
-# t1 = Thread(target=task1,args=(a,b,))
-# t2 = Thread(target=task2,args=(a,b,c,))
-
-# t1.start()
-# t2.start()
-
-# t1.join()
-# t2.join()
 
 from threading import Thread  # Mengimpor modul Thread dari library threading untuk membuat thread
 
